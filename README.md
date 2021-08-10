@@ -10,9 +10,7 @@ No resistration. No personal data needed. No tracking and telemetry. No remote b
 
 ## Support or contact
 
-Mail to [denis@filonov.pro](mailto://denis@filonov.pro)
-
-or start discussion [here](https://github.com/filonov/npng-site/discussions).
+Mail to [denis@filonov.pro](mailto://denis@filonov.pro) or start discussion on support forum [here](https://github.com/filonov/npng-site/discussions).
 
 - [License](LICENSE.md)
 - [Version History](CHANGELOG.md) 
