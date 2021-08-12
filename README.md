@@ -1,6 +1,6 @@
 Fitness / bodybuilding / powerlifting diary.
 
-No resistration. No personal data needed. No tracking and telemetry. No remote backend. Simple interface. Free.
+No registration. No personal data needed. No tracking and telemetry. No remote backend. Simple interface. Free.
 
 - Exercises catalog
 - Training programs constructor
