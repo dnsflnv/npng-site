@@ -1,3 +1,8 @@
+---
+layout: page
+title: License
+subtitle: 
+---
 Copyright (c) 2021 Denis Filonov
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR

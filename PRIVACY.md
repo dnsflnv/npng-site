@@ -1,4 +1,8 @@
-# Privacy policy
+---
+layout: page
+title: Privacy policy
+subtitle: 
+---
 
 * We do not collect personal or anonymous data.
 * No registration needed.

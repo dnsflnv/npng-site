@@ -1,3 +1,8 @@
+---
+layout: home
+title: No Pain, No Gain
+subtitle: 
+---
 Fitness / bodybuilding / powerlifting diary.
 
 No registration. No personal data needed. No tracking and telemetry. No remote backend. Simple interface. Free.
