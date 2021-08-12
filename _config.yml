@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+remote_theme: daattali/beautiful-jekyll@5.0.0
 title: No Pain, No Gain
 email: denis@filonov.pro
 github_username:  filonov
