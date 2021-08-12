@@ -2,3 +2,9 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 title: No Pain, No Gain
 email: denis@filonov.pro
 github_username:  filonov
+# Your name to show in the footer
+author: Denis Filonov
+
+# --- List of links in the navigation bar --- #
+navbar-links: 
+  Author's home: "https://filonov.pro"
