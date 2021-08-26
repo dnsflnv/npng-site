@@ -1,8 +1,6 @@
----
-layout: page
-title: History
-subtitle: 
----
+## 1.1.1
+- Perfomance and interface fixes.
+- Replaced "Edit" name buttons to longtap. 
 
 ## 1.1
 - Changed alarm sound.
