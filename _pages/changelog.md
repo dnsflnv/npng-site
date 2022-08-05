@@ -6,12 +6,6 @@ include_in_header: true
 
 # Changelog
 
-## 3.0.0 `coming soon`
-- Core refactoring.
-- Improved performance.
-- Merged programs and workout screens.
-- Total training volume on the finish and log screen.
-
 ## 2.1.0
 - Same design in all operating systems.
 - Exercises checkbox on workout screen.
