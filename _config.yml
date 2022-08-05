@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : dumbbell
 
   - title                                 : Private
-    description                           : No resistration. No personal data needed. No tracking and telemetry.
+    description                           : No registration. No personal data needed. No tracking and telemetry.
     fontawesome_icon_name                 : dumbbell
   
   - title                                 : Contrast interface
