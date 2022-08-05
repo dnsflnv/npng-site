@@ -1,6 +1,6 @@
 ---
 layout: home
-title: No Pain, No Gain
+title: NpNg
 subtitle: Fitness / bodybuilding / powerlifting journal
 ---
 
