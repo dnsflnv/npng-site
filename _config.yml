@@ -21,13 +21,13 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Denis Filonov                              
-your_link                                 : https://filonov.pro                  
+your_link                                 : https://norr.dev                  
 your_city                                 : Stockholm                                
-email_address                             : denis@filonov.pro
+email_address                             : mail@norr.dev
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : dnsflnv
-github_username                           : filonov
+twitter_username                          : norr_dev
+github_username                           : norrdev
 youtube_username                          :
 
 
@@ -59,9 +59,9 @@ features                                  :
     description                           : You don't need to strain your eyes to see dark grey against a light grey background.
     fontawesome_icon_name                 : dumbbell
 
-  - title                                 : #Smart App Banner
-    description                           : #Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : #arrow-alt-circle-down
+  - title                                 : Body metrics calculators
+    description                           : BMI, ABSI, BFP, RFM, LBM, body proportions, 1 RM, IFP, VO max, Cooper test.
+    fontawesome_icon_name                 : dumbbell
 
   - title                                 : #Social Links
     description                           : #Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
